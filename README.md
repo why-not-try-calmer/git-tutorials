@@ -66,6 +66,7 @@ _Contents_
   * reverting
   * resetting (again)
   * rebasing with cherry-picking
+* useful tips to work with the CLI text editor
 
 _Case study_
 * I have just pushed something I should not have, how can I remove it from the remote?
