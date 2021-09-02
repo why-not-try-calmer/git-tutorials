@@ -71,3 +71,7 @@ _Case study_
 * I have just pushed something I should not have, how can I remove it from the remote?
 * Last week I pushed something I should not have and there has been several commits since; how can I remove it?
 * I have just pulled and now there are conflicts on my branch, what should I do?
+
+## References
+* https://learngitbranching.js.org/?locale=fr_FR
+* https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
